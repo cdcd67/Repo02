@@ -13,6 +13,12 @@
       "skillPath": "plugin/skills/supermemory-search/SKILL.md",
       "computedHash": "8c79d63db45d8bee3656bf6e388d361accb55f45e787197fdea3fc675740d26e"
     },
+    "terrashark": {
+      "source": "LukasNiessen/terrashark",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "7afd1dcce462427ce1228375ae11c08092c6773ac1df794e15df9afba414f6bd"
+    },
     "ui-ux-pro-max": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
       "sourceType": "github",
