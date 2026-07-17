@@ -1,6 +1,18 @@
 {
   "version": 1,
   "skills": {
+    "supermemory-save": {
+      "source": "supermemoryai/claude-supermemory",
+      "sourceType": "github",
+      "skillPath": "plugin/skills/supermemory-save/SKILL.md",
+      "computedHash": "3be5eae408a0e1d3d548c474f2eac5197c235009cbbcdab745ff7929d60129e3"
+    },
+    "supermemory-search": {
+      "source": "supermemoryai/claude-supermemory",
+      "sourceType": "github",
+      "skillPath": "plugin/skills/supermemory-search/SKILL.md",
+      "computedHash": "8c79d63db45d8bee3656bf6e388d361accb55f45e787197fdea3fc675740d26e"
+    },
     "ui-ux-pro-max": {
       "source": "nextlevelbuilder/ui-ux-pro-max-skill",
       "sourceType": "github",
